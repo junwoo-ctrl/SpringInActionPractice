@@ -11,7 +11,13 @@ file upload: until every sunday.
 
 # How to study
 Basically, 3 of us write a pdf files covering each chapters. These files contain summary of each chpaters, articles, and tips.
-
 # Contains of Chapters.
 ### Chapter 1
-Introduces how to initially configure Spring, Spring Boot, and Spring Project.
+Introduces how to initially configure Spring, Spring Boot, and Spring Project.  
+
+### Chapter 2
+Develop Web application with Spring MVC Patterns.
+- Domain, Controller, View, Model Concepts.
+- Hibernate Validation API
+- Lombok API
+- Template Caching
